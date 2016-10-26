@@ -1,4 +1,8 @@
 # tensorFlow_Install_for_Mac
 
-using model at http://www.vlfeat.org/matconvnet/models/beta16/
+$ brew uninstall protobuf
+
+and the reimport tensorflow in python.
+
+Enjoy the tensorflow in mac ~
 
